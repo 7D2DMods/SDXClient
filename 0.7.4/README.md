@@ -1,2 +1,0 @@
-# SDXClient
-SDX Client
